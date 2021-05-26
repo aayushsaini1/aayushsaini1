@@ -1,6 +1,4 @@
-### Hi there I'm Aayush👋
-
-# Product Designer during day, 3D Artist by Night!
+## Hi there I'm Aayush👋
 
 - 🔭 I’m currently working on Web 3.0 projects
 - 🌱 I’m currently learning React js
@@ -10,7 +8,7 @@
 
 <br />
 
-### Tech Stack
+### ⚙ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -21,6 +19,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
-
-
-<br />
