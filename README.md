@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Web 3.0 projects
 - 🌱 I’m currently learning React js
-- 👯 I’m looking to collaborate on any open source 
-- 💬 Ask me about product design, 3D art, tech
+- 💬 Ask me about design, product, tech
 - 📫 How to reach me: [Twitter](https://twitter.com/aayushsaini_) / [Linkedin](https://www.linkedin.com/in/aayushsaini)
 
 <br />
