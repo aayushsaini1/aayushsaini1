@@ -1,13 +1,12 @@
 ### Hi there I'm Aayush👋
 
-**Product Designer during day, 3D Artist by Night! **
+# Product Designer during day, 3D Artist by Night!
 
 - 🔭 I’m currently working on Web 3.0 projects
 - 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate on any open source 
 - 💬 Ask me about product design, 3D art, tech
 - 📫 How to reach me: [Twitter](https://twitter.com/aayushsaini_) / [Linkedin](https://www.linkedin.com/in/aayushsaini)
-- ⚡ Fun fact: 
 
 <br />
 
