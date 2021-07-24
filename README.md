@@ -16,3 +16,5 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aayushsaini&theme=dark&hide_border=true)](https://git.io/streak-stats)
